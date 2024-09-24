@@ -1,1 +1,2 @@
 # recipes
+My first website following The Odin Project's Curriculum. The main focus of this project was to become comfortable with using Git on the Terminal and committing iterations, using Github from the beginning of the project to the end.
